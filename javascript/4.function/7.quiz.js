@@ -17,3 +17,5 @@ function doubleAndlog(num){
 }
 iterate(3, log)
 iterate(3, doubleAndlog)
+
+s

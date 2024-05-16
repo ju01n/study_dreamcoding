@@ -18,6 +18,7 @@ function addKey(obj, key, value){
 addKey(obj,'job','engineer')
 console.log(obj);
 
+// 삭제하고 싶을 때
 function deleteKey(obj, key){
   delete object[key];
 }
